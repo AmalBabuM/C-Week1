@@ -1,0 +1,15 @@
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\bin\Debug\net6.0\Student Age.exe
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\bin\Debug\net6.0\Student Age.deps.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\bin\Debug\net6.0\Student Age.runtimeconfig.json
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\bin\Debug\net6.0\Student Age.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\bin\Debug\net6.0\Student Age.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.csproj.AssemblyReference.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.AssemblyInfoInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.AssemblyInfo.cs
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.csproj.CoreCompileInputs.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\refint\Student Age.dll
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.pdb
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\Student Age.genruntimeconfig.cache
+C:\Users\91999\OneDrive\Desktop\Bro Assignment\WEEK 3\Student Age\obj\Debug\net6.0\ref\Student Age.dll
