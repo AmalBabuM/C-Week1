@@ -11,7 +11,7 @@ namespace Student_Age
         {   string search;
             List<student> detail= new List<student>();
             detail.Add(new student());
-            detail[0].age=20;
+            detail[0].age=28;
             detail[0].name="amal";
             detail[0].department="science";
 
@@ -21,14 +21,17 @@ namespace Student_Age
             detail[1].department="commerce";
 
             detail.Add(new student());
-            detail[2].age=22;
+            detail[2].age=21;
             detail[2].name="Rahul";
             detail[2].department="Science";
 
             int flag=0;
             for(int i=0;i<detail.Count;i++)
             {
-                System.Console.WriteLine(detail[i].getdata());
+                if(detail[i].age>22)
+                {
+                    System.Console.WriteLine(detail[i].getdata());
+                }
             }
             
             
